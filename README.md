@@ -1,1 +1,2 @@
-# MovieDatabase
+# MovieDatabase\
+Goals:
